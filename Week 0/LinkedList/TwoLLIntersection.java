@@ -1,4 +1,7 @@
-public class detectCycleII {
+import java.util.HashSet;
+import java.util.Set;
+
+public class TwoLLIntersection {
     class ListNode {
         int val;
         ListNode next;
@@ -25,7 +28,7 @@ public class detectCycleII {
     }
 
 }
-/* Best method without space. Another method is unintuitive.
+/* Best method without space. Another method is unintuitive.Below this method.
 public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
     int m = 0;
     int n = 0;

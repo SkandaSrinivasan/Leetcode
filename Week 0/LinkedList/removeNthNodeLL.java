@@ -8,7 +8,7 @@ public class removeNthNodeLL {
          }
 
         /* Got stuck with the edge cases for this, but a dummy node at the start cleans up all worries.
-        Hint is useful. Fixed pointer n nodes away from the slow pointer.
+        Hint is useful. Fixed fast pointer n nodes away from the slow pointer.
         */
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummy = new ListNode(0);
