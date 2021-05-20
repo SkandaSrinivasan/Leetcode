@@ -26,7 +26,7 @@ public class wallsAndGates{
         }
         while(!q.isEmpty()){
             int [] room = q.poll();
-            int row = room[0];
+            int row = room[0];s
             int col = room[1];
             for(int [] direction: DIRECTIONS){
                 int r = row+direction[0];

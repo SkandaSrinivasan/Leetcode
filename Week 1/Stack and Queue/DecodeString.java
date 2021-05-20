@@ -24,7 +24,6 @@ public class DecodeString {
                 pointer++;
             }
         }
-        System.out.println(sol.toString());
         return sol.toString();
     }
     public static void main(String[] args){
