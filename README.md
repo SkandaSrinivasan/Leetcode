@@ -5,7 +5,7 @@ Going through explore cards in LC for each topic. Code may not always be the mos
 
 ## Data Structures to vist
 
-[ ] Primitive types(Bit manipulation included)
+- [ ] Primitive types(Bit manipulation included)
 [ ] Arrays
 [ ] Strings
 [ ] Lists
