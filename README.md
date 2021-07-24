@@ -6,19 +6,19 @@ Going through explore cards in LC for each topic. Code may not always be the mos
 ## Data Structures to vist
 
 - [ ] Primitive types(Bit manipulation included)
-[ ] Arrays
-[ ] Strings
-[ ] Lists
-[ ] Stacks and Queues
-[ ] Binary Trees
-[ ] Heaps
-[ ] Hash tables
-[ ] BSTs
+- [ ] Arrays
+- [ ] Strings
+- [ ] Lists
+- [ ] Stacks and Queues
+- [ ] Binary Trees
+- [ ] Heaps
+- [ ] Hash tables
+- [ ] BSTs
 
 ## Algorithm patterns
 
-[ ] Concrete examples
-[ ] Case analysis
-[ ] Iterative refinement
-[ ] Reduction
-[ ] Graph modeling
+- [ ] Concrete examples
+- [ ] Case analysis
+- [ ] Iterative refinement
+- [ ] Reduction
+- [ ] Graph modeling
